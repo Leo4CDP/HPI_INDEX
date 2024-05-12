@@ -1,0 +1,8 @@
+Row,Variable,Link,Measure,m.Prepared_c,Download
+1,GDP (quaterly),namq_10_gdp,*.CLV_I10.SCA.B1G.*,2024-01-30T21:36:33.326000Z,0
+2,Customer price index (monthly),PRC_HICP_MIDX,*.I05.CP00.*,2024-01-30T09:26:32.853000Z,0
+3,Housing price increase rate (quaterly),PRC_HICP_MIDX,*.I05.CP041.*,2024-01-30T09:26:32.853000Z,0
+4,Housing price increase rate (quaterly),prc_hpi_q,*.TOTAL.I15_Q.*,2024-01-23T21:56:51.437000Z,0
+5,Unemployment (quaterly),une_rt_q,*.SA.Y15-74.PC_ACT.T.*,2024-01-05T04:08:38.304000Z,0
+6,Labour costs (quaterly),namq_10_lp_ulc,*.I10.SCA.RLPR_PER.*,2024-01-30T21:36:48.276000Z,0
+7,Population growth (yearly),nama_10_pe,*.THS_PER.POP_NC.*,2024-01-05T04:08:38.738000Z,0
